@@ -6,7 +6,8 @@
 <img align='right' src="https://pa1.narvii.com/6858/3d8d5712b4e31d70ee9ce9c30cdb06146a6db2fb_hq.gif" width="280">
 
 
-<a href="https://github.com/VanessaSwerts">
+
+<a href="https://github.com/SalesStefany">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SalesStefany&theme=dracula&show_icons=true" />
 </a>
 
